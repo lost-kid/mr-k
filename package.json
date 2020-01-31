@@ -1,0 +1,15 @@
+{
+  "name": "mr-k",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lost-kid/mr-k.git",
+  "author": "MichaelDillie <michaeldillie@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^5.11.2",
+    "discord.js": "^11.5.1",
+    "junk": "^3.1.0",
+    "opusscript": "^0.0.7",
+    "ytdl-core": "^1.0.7"
+  }
+}
